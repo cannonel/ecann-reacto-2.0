@@ -1,14 +1,19 @@
 import React from 'react';
+// import Nav from '../components/Nav'
 
 
 function Header() {
   return (
     
-    <div>
-      
-    </div>
+    <header className='header'>
+    <h3>
+      {/* link to site here
+      <a href=""></a> */}
+      EC
+      </h3>
+      {/* <Nav></Nav> */}
+      </header>
     
-      
   );
 }
 
